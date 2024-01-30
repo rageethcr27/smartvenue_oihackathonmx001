@@ -101,19 +101,19 @@
             "enabled": false
         },
         "pushNotifications": {
-            "enabled": false
+            "enabled": true
         },
         "crashlytics": {
             "enabled": false
         },
         "firebaseAndroid": {
-            "enabled": false
+            "enabled": true
         },
         "firebaseIos": {
             "enabled": false
         },
         "localNotifications": {
-            "enabled": false
+            "enabled": true
         },
         "appCenterOTA": {
             "enabled": false
@@ -122,7 +122,7 @@
             "enabled": false
         }
     },
-    "appVersion": "5.0.0",
-    "buildNumber": 4,
+    "appVersion": "3.0.0",
+    "buildNumber": 9,
     "runtimeUrl": "https://smartvenueoihackathonmx001-sandbox.mxapps.io/"
 }
