@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767492672982",
+    "project_id": "smartvenueoihackathonmx001",
+    "storage_bucket": "smartvenueoihackathonmx001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767492672982:android:25303abc7e3afaf547a877",
+        "android_client_info": {
+          "package_name": "myapp.smartvenue_oihackathonmx001"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf0GGCFjfxwoPG6v7kwG2lW5XRKDtJS60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
